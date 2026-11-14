@@ -35,3 +35,16 @@ Stall operators often rely on personal observations and judgment to identify whi
 </p>
 
 ---
+## 🎯 Project Objectives
+
+The project aims to develop a food purchasing management system that records, organizes, and analyzes student food purchases to identify popular products, purchasing preferences, and purchasing trends.
+
+Specifically, the project aims to:
+
+- **Record Student Purchases** – Record food and drink purchases made by students from existing campus food stalls.
+- **Organize Purchase Records** – Arrange purchase information according to stalls, products, and quantities.
+- **Identify Popular Products** – Determine and rank the most and least purchased food and drink items based on recorded transactions.
+- **Analyze Purchasing Trends** – Examine student purchasing patterns based on product categories and stall demand.
+- **Generate Reports** – Provide organized reports that present insights into product popularity, student purchasing preferences, and purchasing trends.
+
+---
