@@ -59,3 +59,18 @@ Specifically, the project aims to:
 </p>
 
 ---
+## ✨ Main Features
+
+<p align="justify">
+
+- **User Management** – Allows the admin to manage system users and assign roles, including Admin, Vendor, and Buyer.
+- **Food and Drink Management** – Allows vendors to add, view, edit, and organize food and drink products.
+- **Purchase Recording** – Allows buyers to select food and drinks and record the quantities purchased.
+- **File Handling** – Saves, loads, updates, and retrieves food, drink, user, and purchase records from files.
+- **Graphical User Interface (GUI)** – Provides an interactive interface with menus, forms, buttons, tables, and confirmation messages.
+- **Purchase Reports** – Displays organized purchase and product information to help identify popular products, student purchasing preferences, and purchasing trends.
+
+</p>
+
+---
+
