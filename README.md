@@ -48,3 +48,14 @@ Specifically, the project aims to:
 - **Generate Reports** – Provide organized reports that present insights into product popularity, student purchasing preferences, and purchasing trends.
 
 ---
+## 👥 Target Users
+
+<p align="justify">
+
+- **Admin** – Manages users, vendors, buyers, and overall system data.
+- **Vendor** – Adds and updates food and drink products, prices, and available quantities.
+- **Buyer** – Views available food and drinks and records purchases.
+
+</p>
+
+---
