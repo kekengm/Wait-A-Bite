@@ -1,8 +1,12 @@
+import java.util.logging.FileHandler;
+
 import javax.swing.*;
 
 public class Main {
 
     public static void main(String[] args) {
+
+        SwingUtilities.invokeLater(() -> {
 
             try {
 
@@ -12,7 +16,19 @@ public class Main {
 
                 frame.setVisible(true);
 
+            } catch (Exception e) {
+
+                JOptionPane.showMessageDialog(
+                    null,
+                    "Unable to start Wait A Bite:\n" + e.getMessage(),
+                    "Application Error",
+                    JOptionPane.ERROR_MESSAGE
+                );
+
             }
 
+        });
+
     }
-}
+
+} 
