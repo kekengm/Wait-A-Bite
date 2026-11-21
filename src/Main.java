@@ -1,5 +1,3 @@
-import java.util.logging.FileHandler;
-
 import javax.swing.*;
 
 public class Main {
