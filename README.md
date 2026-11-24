@@ -316,7 +316,7 @@ In developing <strong>Wait A Bite</strong>, the team used the following technolo
   </li>
 </ol>
 
-*Note: All user roles use the same application and compilation commands.*
+<sub><em>*Note: All user roles use the same application and compilation commands.*</em></sub>
 
 ---
 
@@ -371,7 +371,8 @@ In developing <strong>Wait A Bite</strong>, the team used the following technolo
   <li><div align="justify">Once approved, return to the landing page and log in using the registered credentials.</div></li>
 </ol>
 
-<small><em>Note: New accounts cannot log in until approved by the Admin.</em></small>
+<sub><em>Note: New accounts cannot log in until approved by the Admin.</em></sub>
+
 ---
 ### 💌 Help and Support
 
